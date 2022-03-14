@@ -5,6 +5,6 @@
 
 
 ## Credits
-- [Kronus8](https://github.com/Kronus8)  
-- [Original Repo](https://github.com/Kronus8/playerids)  
+- All Credit goes to the Original Creator [Kronus8](https://github.com/Kronus8)  
+- Original Repo [playerids](https://github.com/Kronus8/playerids)  
 - Special Thanks to [AlexMartSch](https://github.com/AlexMartSch) for additional changes
